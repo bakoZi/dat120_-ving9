@@ -1,0 +1,11 @@
+ls  (lister opp ting i directorien)
+
+cd  (change directory)
+
+git add . 	(legger til alt i filen)
+
+git commit -m "commentar"   (tar en "screenshot" av koden)
+
+git push  (dytter det opp til github)
+
+git pull (henter fra github)
